@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+catboost
+streamlit
+undetected-chromedriver
+beautifulsoup4
+requests
+joblib
+tqdm
+matplotlib
