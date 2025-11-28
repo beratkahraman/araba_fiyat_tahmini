@@ -30,7 +30,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için adımları izleyin:
 
 1.  **Projeyi klonlayın:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/araba-fiyat-tahmini.git](https://github.com/KULLANICI_ADINIZ/araba-fiyat-tahmini.git)
+    git clone [https://github.com/beratkahraman/araba-fiyat-tahmini.git](https://github.com/beratkahraman/araba-fiyat-tahmini.git)
     cd araba-fiyat-tahmini
     ```
 
